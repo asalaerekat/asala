@@ -1,6 +1,2 @@
 # asala
-test
-this file to test github an dunderstand how does it work
-hdjksnaldjnaAD ZIJDLSANdljan 
-sajaja jsnd jd j xjsan; 
-trial trial nananannana
+This file is used to test how to do branching/pull/push operations to a master file.
